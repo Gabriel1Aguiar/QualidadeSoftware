@@ -1,5 +1,9 @@
 # Projeto Qualidade Software
 
+Aluno: Gabriel Aguiar do Nascimento
+Turma: P5A
+Mátricula: 2023111510057
+
 Este projeto utiliza as ferramentas Cypress e Cucumber para criar testes automatizados baseados em Gherkin.
 
 ## 📚 Descrição
